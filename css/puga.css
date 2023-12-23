@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Raleway:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f2eae2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.konteineri {
+  width: 343px;
+  height: 611px;
+  border-radius: 10px;
+  background: #e1e1e1;
+  box-shadow: 0px 8px 20px #afafaf;
+}
+
+.teqstip {
+  color: #15263f;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 19.92px;
+  margin-left: 16.71px;
+}
+
+hr {
+  width: 302px;
+
+  margin-bottom: 32.08px;
+  margin-left: 17.5px;
+}
+
+.satauri5 {
+  color: #6c7289;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 5px;
+  margin-top: 18.03px;
+  margin-left: 28px;
+}
+
+.varianti1 {
+  color: #1c232b;
+  font-family: Fraunces;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 32px;
+  margin-top: 19px;
+  margin-left: 25px;
+}
+
+/* p{
+    color: var(--very-dark-blue-card-bg, #15263F);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    
+    font-family: Outfit;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
+}
+
+img{
+    width: 343px;
+    height: 343px;
+    flex-shrink: 0;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+h5{
+    color: var(--Aurometal-Saurus, #6C7289);
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 5px;
+    justify-content: center;
+    text-align: center;
+}
+
+h1{
+    width: 295px;
+    color: #1C232B;
+    font-feature-settings: 'clig' off, 'liga' off;
+
+    
+    font-family: Fraunces;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px; 
+    justify-content: center;
+    text-align: center;
+}
+
+
+hr{
+    width: 302px;
+    height: 1px;
+    flex-shrink: 0;
+    background: var(--very-dark-blue-line, #2E405A);
+    justify-content: center;
+    text-align: center;
+} */

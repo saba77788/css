@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+.pirveli{
+    color: brown;
+    font-size: 20px;   
+}
+
+.meore{
+    color: blue;
+    font-size: 50px;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight:bolder;
+    font-style: italic;
+    line-height: 50px ;
+    text-align: start;
+    text-decoration:underline;
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    color: red
+}

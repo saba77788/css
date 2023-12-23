@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap");
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #afafaf;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.figma {
+  border-radius: 15px;
+  background: #2e405a;
+  box-shadow: 0px 25px 15px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  height: 638px;
+  flex-shrink: 0;
+}
+
+img {
+  width: 301.205px;
+  height: 302px;
+  flex-shrink: 0;
+  margin-top: 24px;
+  margin-left: 24.79px;
+}
+
+.figma2 {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 22px;
+  font-weight: 600;
+  width: 302px;
+  height: 59.946px;
+  flex-shrink: 0;
+  margin-top: 25px;
+  margin-left: 24px;
+}
+
+.figma3 {
+  color: #fff;
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 26px;
+  width: 278px;
+  margin-top: 5.11px;
+  margin-left: 24px;
+}
+
+.figma1 {
+  width: 302px;
+  height: 1.07px;
+  flex-shrink: 0;
+  background: #fff;
+  margin-top: 40.15px;
+  margin-left: 24px;
+}
+
+.figma4 {
+  color: #8bacd9;
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 14.48px;
+  margin-left: 24px;
+}
