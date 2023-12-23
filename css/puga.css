@@ -58,6 +58,11 @@ hr {
   margin-left: 25px;
 }
 
+.meniu {
+  position: absolute;
+  top: 50px;
+}
+
 /* p{
     color: var(--very-dark-blue-card-bg, #15263F);
     font-feature-settings: 'clig' off, 'liga' off;

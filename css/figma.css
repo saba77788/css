@@ -71,3 +71,8 @@ img {
   margin-top: 14.48px;
   margin-left: 24px;
 }
+
+.meniu {
+  position: absolute;
+  top: 50px;
+}
